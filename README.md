@@ -18,10 +18,13 @@ Distribuição dos rendimentos
 Comparação entre períodos
 
 📷 Dashboard
+
 ![Dashboard](imagens/dashboard.png)
 
 ⚠️ Observação
+
 Os dados foram ajustados/simulados para fins educacionais e preservação de privacidade.
 
 📌 Sobre mim
+
 Estou em transição para a área de dados, desenvolvendo projetos práticos com foco em análise de dados e geração de insights.
