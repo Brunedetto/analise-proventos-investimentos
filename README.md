@@ -18,7 +18,7 @@ Distribuição dos rendimentos
 Comparação entre períodos
 
 📷 Dashboard
-![Dashboard](imagem/dashboard.png)
+![Dashboard](imagem/DashboardInvestimento.png)
 
 ⚠️ Observação
 Os dados foram ajustados/simulados para fins educacionais e preservação de privacidade.
