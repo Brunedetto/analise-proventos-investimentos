@@ -19,7 +19,7 @@ Comparação entre períodos
 
 📷 Dashboard
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](Imagens/dashboard.png)
 
 ⚠️ Observação
 
